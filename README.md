@@ -8,6 +8,6 @@ I have a soft side for creating websites and i usually showcase my creativity th
 
 > Python > Javascript > HTML > CSS > Node.Js > React.Js
 >
-> C > C++ > Canva > Blender > UnrealEngine
+> C > C++ > Canva > Blender 
 >
 > AI > AR/VR
